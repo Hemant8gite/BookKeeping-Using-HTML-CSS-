@@ -1,0 +1,62 @@
+    .s1 .container ul li{
+        font-size: 13px;
+    }
+    .s22{
+        position: sticky;
+        top: 0px;
+        z-index: 999 !important;
+    }
+    .h11{
+        align-self: center;
+        margin: -25px 0px 0px 0px;
+        width: 100px;
+        height: 100px;
+        clip-path: polygon(0 24%, 50% 0, 100% 21%, 100% 75%, 50% 100%, 0 78%);
+        background-color: #5577B4;
+    }
+    .chils1{
+        background-color: #F8F9FA;
+    }
+    .Hero2{
+        padding: 200px 0px 0px 0px; 
+        background-image: url(https://preview.colorlib.com/theme/bookkeeping/images/xhero_1.jpg.pagespeed.ic.zPNb12jCn8.webp);
+        background-position: cover;
+        background-repeat: no-repeat;
+    }
+    .client1{
+        background-color: #5778B4;
+        opacity: .8;
+    }
+    .client1 .img-card{
+        width: 50px;
+    }
+    .client1 p, .client1 span{
+        color: #c6cdfc;
+    }
+    i{
+        font-size: 30px;
+    }
+    .chils1 i{
+        padding: 23px 0px 0px 0px;
+        font-size: 40px;   
+    }
+    .img-2:hover{
+        transform: scale(1.3);
+        transition-duration: .5s;
+    }
+    .Hero3{
+        background-image: url(https://preview.colorlib.com/theme/bookkeeping/images/xhero_2.jpg.pagespeed.ic.mK9JC8zPb1.webp);
+        padding: 60px 0px;
+    }
+    .footer11, .footer{
+        background-color: #183661;
+    }
+    .ul11 li a, .footer11 .row div p{
+        color: #8d8f9c;
+        text-decoration:none;
+    }
+    .ul11 li a:hover{
+        color: white;
+        transition-duration: .2s;
+        text-decoration: underline solid;
+    }
